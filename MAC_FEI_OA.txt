@@ -27,4 +27,3 @@ Questão 9-Houve reclamações em relação a ordem de chegada dos produtos? Se 
 Questão 10-Houve reclamações sobre pedido incorreto? Se sim, qual a frequência?
 						
 Questão 11-Em relação ao painel de pedidos na posição que ele se encontra atualmente, houve reclamações?
-
