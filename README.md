@@ -1,12 +1,12 @@
 # MacRow
 App para agilizar atendimento em restaurantes e lanchonetes 
 
-Integrantes:
+# Integrantes:
 
-Victor Masumoto
+- Edgar Gomes
 
-Matheus Elias
+- Matheus Elias
 
-Renan Martins
+- Renan Martins
 
-Edgar Gomes
+- Victor Masumoto
