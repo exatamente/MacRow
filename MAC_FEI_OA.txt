@@ -1,0 +1,30 @@
+MAC FEI
+QUESTIONÁRIO
+
+O presente questionario deve ser apresentado ao gerente ou responsavel pelo estabelecimento
+afim de que sejam identificados questões releventes ao funcionamento do sistema.
+A aplicação dependerá de uma serie de mudanças de politica e funcionamento dentro do estabelecimento
+por parte dos funcionarios.
+
+
+Questão 1-Quantos pedidos em média são feitos por dia?
+
+Questão 2-Quais os pratos mais pedidos?
+
+Questão 3-Quanto tempo em média leva o atendimento a um cliente da fila?
+						
+Questão 4-Quanto tempo em média demora o cliente para retirar o pedido?
+
+Questão 5-Como funciona o encaminhamento dos pedidos na cozinha (existe alguma prioridade, fila, ordem, etc.)?
+										
+Questão 6-Em relação a organização do estoque da cozinha, costumam faltar ingredientes, que impeçam na confecção de algum prato (para informar indisponibilidade no app)?
+									
+Questão 7-Como as promoções são planejadas e apresentadas aos consumidores?																
+Questão 8-Nos horários de pico haverá funcionário dedicado ou não ao manuseio da aplicação?
+
+Questão 9-Houve reclamações em relação a ordem de chegada dos produtos? Se sim, qual a frequência?
+								
+Questão 10-Houve reclamações sobre pedido incorreto? Se sim, qual a frequência?
+										
+Questão 11-Em relação ao painel de pedidos na posição que ele se encontra atualmente, houve reclamações?
+
